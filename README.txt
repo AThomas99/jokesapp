@@ -1,0 +1,2 @@
+Client ID: WIzaEeIKio8uTYCqie3Qn2BawjudRAvN
+Client Secret: 1M_teGqJULdUU_sFwFIgvdj9p07pI3av0rfzYP8j8UoTRkKKzlJnFxa-2-WwWs0f
